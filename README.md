@@ -17,7 +17,7 @@ A simple piano website in HTML, CSS and JavaScript.
 - XX V NN VBC
 - Z CC XN BZ
 
-## Small into of Fur Elise
+## Small intro of Fur Elise
 
 - JNJNJ VHGD
 
