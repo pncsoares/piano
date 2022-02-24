@@ -13,7 +13,7 @@ document.addEventListener('keydown', e => {
     if (e.repeat) {
         return;
     }
-    
+
     const key = e.key;
     const whiteKeyIndex = white_keys.indexOf(key);
     const blackKeyIndex = black_keys.indexOf(key);
