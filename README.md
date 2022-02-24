@@ -10,7 +10,7 @@ A simple piano website in HTML, CSS and JavaScript.
 
 ## Simple musics to play
 
-### Wedding music 💍
+### Kynda wedding music 💍
 
 - ZZ C BB BB CC
 - ZZ C BB BB VV
